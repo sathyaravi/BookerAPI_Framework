@@ -1,0 +1,33 @@
+{
+  "createBookingPositive": {
+    "firstname": "Mark",
+	"lastname": "Brown",
+    "totalprice": 1000,
+    "depositpaid": true,
+	"bookingdates":{
+		"checkin":"2026-07-01",
+		"checkout":"2026-07-20"
+	},
+	
+	"additionalneeds":"Breakfast"
+	
+  },
+
+ 
+
+	"updateBookingPositive": {
+		
+		    "firstname": "James",
+		    "lastname": "Brown",
+		    "totalprice": 1000,
+		    "depositpaid": true,
+		    
+		    "bookingdates": {
+		        "checkin": "2026-07-12",
+		        "checkout": "2026-07-22"
+		    },
+			
+			"additionalneeds": "Breakfast"
+		}
+	   
+	  }
